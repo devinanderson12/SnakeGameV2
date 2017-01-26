@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Snake
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Snake\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Snake()
+comment2.params=p
+comment2.target=Snake(Snake)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Snake\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ checkhit()
+comment5.params=
+comment5.target=void\ checkKeyPress()
+comment6.params=
+comment6.target=void\ doMovement()
+comment7.params=s
+comment7.target=void\ setBehind(Snake)
+comment8.params=x
+comment8.target=void\ setXToGet(int)
+comment9.params=y
+comment9.target=void\ setYToGet(int)
+numComments=10
